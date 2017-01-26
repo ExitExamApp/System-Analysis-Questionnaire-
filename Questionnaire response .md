@@ -9,5 +9,5 @@
 8. Would you require security?
 9. Would you want it to work with the actual software that you use to give the exit exam?
 10. What sort of data files will we be using?
-
-
+11. Do you want the program to be written in a specific language?
+12. Is there a memory usage limit?
