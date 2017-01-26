@@ -11,4 +11,6 @@
 10. What sort of data files will we be using?
 11. Do you want the program to be written in a specific language?
 12. Is there a memory usage limit?
-13. Do you require any special features?
+13. Is there is specific number of question you would like the EU to be able to answer.
+14. Do you want it to be interactive?
+15: Do you want the question grouped in categories?
