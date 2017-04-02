@@ -1,4 +1,5 @@
-# System-Analysis-Questionnaire-
+# System Analysis Questionnaire
+
 1. What are your goals for this project?
 2. What is your preferred mode of communication for the project?
 3. What do you want the application to do?
